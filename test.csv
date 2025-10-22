@@ -1,0 +1,3 @@
+Experiment_ID,Temperature_C,Pressure_kPa,Sample_Material,Observation
+E001,23.5,101.2,Aluminium,Stable under normal conditions
+E002,60.0,145.8,Copper,Oxidation visible on surface

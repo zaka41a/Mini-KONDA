@@ -1,0 +1,6 @@
+Experiment_ID,Temperature_C,Pressure_kPa,Sample_Material,Observation
+EXP001,25,101.3,Aluminum,No visible change
+EXP002,150,120.5,Copper,Surface oxidation observed
+EXP003,300,210.1,Steel,Partial melting at edges
+EXP004,450,310.4,Aluminum,Complete melting
+EXP005,100,95.2,Brass,Minor color change
