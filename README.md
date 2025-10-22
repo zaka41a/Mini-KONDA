@@ -141,7 +141,7 @@ Mini_Konda/
 │
 └── research_data_mini.csv
 ```
-
+---
 💬 How It Works (Simple Steps)
 
 Upload CSV → Frontend reads the headers
@@ -153,7 +153,7 @@ Go calls Ollama (Mistral) to get semantic descriptions
 Go saves results in Neo4j as graph nodes and relationships
 
 Frontend displays the AI-generated annotations
-
+---
 💡 Possible Improvements
 
 ✅ Real-time streaming of LLM responses
@@ -165,7 +165,7 @@ Frontend displays the AI-generated annotations
 🔜 Integration with FAIR data principles
 
 🔜 Multi-language support (English / French)
-
+---
 🧑‍💻 Author
 
 Zakaria [Your Last Name]
