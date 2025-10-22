@@ -37,7 +37,7 @@ The goal is to make data **easier to understand and reuse**, by creating a **sem
 
 ### 1. Clone this project
 
-```bash
+
 git clone https://github.com/yourusername/Mini_Konda.git
 cd Mini_Konda
 
