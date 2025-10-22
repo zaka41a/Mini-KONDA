@@ -178,7 +178,3 @@ Research Assistant – RWTH Aachen (Candidate)
 MIT License © 2025 Zakaria
 ```
 
----
-
-Would you like me to add a **1-minute spoken explanation (script)** you can use in your interview to describe this project simply and confidently?  
-It’s super helpful to sound natural and technical at the same time.
